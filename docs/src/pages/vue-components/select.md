@@ -134,7 +134,7 @@ The following example shows a glimpse of how you can play with lazy loading the 
 <doc-example title="Selected-item slot" file="QSelect/DisplaySelectedItemSlot" />
 
 ## Filtering and autocomplete
-
+Don't have ending tag
 ### Native attributes with `use-input`
 
 All the attributes set on QSelect that are not in the list of props in the API will be passed to the native input field used (please check `use-input` prop description first to understand what it does) for filtering / autocomplete / adding new value. Some examples: autocomplete, placeholder.
